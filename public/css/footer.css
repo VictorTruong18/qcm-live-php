@@ -1,0 +1,23 @@
+body {
+    font-family     : 'Noto Sans', sans-serif;
+}
+.page-footer{
+    background-color: #5c94bd;
+}
+.page-footer h2 {
+
+    font-family     : 'Noto Sans', sans-serif;
+    font-weight     :900;
+    font-size       : 3.5rem;
+    line-height     : 1.5;
+  }
+  
+  .page-footer h5 {
+    font-family     : 'Noto Sans', sans-serif;
+    font-weight     :900;
+  }
+  
+  .page-footer p {
+    color           : #ffffff;
+  }
+  

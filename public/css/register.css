@@ -1,0 +1,14 @@
+.login,
+.image {
+  min-height         : 100vh;
+}
+#login{
+    background-color : #5c94bd;
+}
+.bg-image {
+  background-image   : url('logo.jpg');
+  background-size    : 100%;
+  background-position: center center;
+  background-color   :#5c94bd;
+  
+}
